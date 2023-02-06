@@ -1,0 +1,32 @@
+.note {
+    display: flex;
+    max-width: 1300px;
+}
+.noteList {
+    height: 90vh;
+    padding: 10px;
+    border-right: 1px solid rgb(219, 219, 219);
+    flex: 0.25;
+}
+.noteContents {
+    margin: 10px;
+    flex: 0.75;
+}
+.list_header {
+    border-bottom: 1px solid rgb(219, 219, 219);
+    padding: 10px 0;
+}
+.list_headerText {
+    font-size: 10px;
+
+}
+.contents_date {
+    text-align: center;
+    padding-top: 10px;
+}
+.contents_headerText h1 {
+    padding: 20px 0;
+}
+.content h2 {
+    font-weight: normal;
+}

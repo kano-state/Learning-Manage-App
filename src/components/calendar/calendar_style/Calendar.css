@@ -1,0 +1,8 @@
+.calendar{  
+    margin: 10px;
+}
+
+.calendarArea {
+    display: flex;
+    max-width: 1300px;
+}

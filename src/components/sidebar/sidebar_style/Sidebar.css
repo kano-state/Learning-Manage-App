@@ -1,0 +1,15 @@
+.sidebar {
+    flex: 0.2;
+    background-color: rgb(235, 235, 235);
+    color: black;
+
+}
+.sidebarOption {
+    padding: 20px 20px;
+
+}
+.sidebarOption a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 100;
+}

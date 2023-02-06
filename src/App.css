@@ -1,0 +1,21 @@
+*  {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.app {
+  height: 100vh;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.main {
+  display: flex;
+  height: 90vh;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.contents {
+  flex: 0.8;
+  overflow-x: scroll;
+}
+
